@@ -1,5 +1,5 @@
 # primeiro-java
-Esse é meu primeiro código .java. <br>
+Esse é meu primeiro código **.java**. <br>
 Esse código foi feito para cumprir um desafio do bootcamp DIO Backend com Java, promovido pelo Santander. <br>
 O objetivo desse código é simular uma captura de dados bancários via terminal a fim de exibir uma mensagem personalizada, usando os dados inseridos pelo usuário, no próprio terminal.
 
