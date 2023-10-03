@@ -6,7 +6,7 @@ O objetivo desse código é simular uma captura de dados bancários via terminal
 ## :gear: Executando
 Para executar esse breve código é necessário uma IDE que faça sua simulação através de uma JDK
 
-## :hammer_and_wrench: Contrução
+## :hammer_and_wrench: Construção
 Esse código foi construido usando como linguagem apenas Java e usando o VSCode como IDE.
 
 ## :dragon_face: Autor
